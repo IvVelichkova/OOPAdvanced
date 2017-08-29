@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{AB2C279E-A256-43F2-BD15-BF6C6E8F2BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersection", "RectangleIntersection\RectangleIntersection.csproj", "{3CC66CFE-1C24-4B68-A1E7-CC3E7BD44922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{F9AB32EC-A74C-4762-8B8D-EC2E7A75CCC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2C279E-A256-43F2-BD15-BF6C6E8F2BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2C279E-A256-43F2-BD15-BF6C6E8F2BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2C279E-A256-43F2-BD15-BF6C6E8F2BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2C279E-A256-43F2-BD15-BF6C6E8F2BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC66CFE-1C24-4B68-A1E7-CC3E7BD44922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC66CFE-1C24-4B68-A1E7-CC3E7BD44922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC66CFE-1C24-4B68-A1E7-CC3E7BD44922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC66CFE-1C24-4B68-A1E7-CC3E7BD44922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AB32EC-A74C-4762-8B8D-EC2E7A75CCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AB32EC-A74C-4762-8B8D-EC2E7A75CCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AB32EC-A74C-4762-8B8D-EC2E7A75CCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AB32EC-A74C-4762-8B8D-EC2E7A75CCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
