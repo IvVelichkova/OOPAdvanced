@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\bin\Debug\Telephony.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\bin\Debug\Telephony.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\bin\Debug\Telephony.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\obj\Debug\Telephony.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\obj\Debug\Telephony.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Telephony\obj\Debug\Telephony.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\bin\Debug\ListyIterator.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\bin\Debug\ListyIterator.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\bin\Debug\ListyIterator.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\obj\Debug\ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\obj\Debug\ListyIterator.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\IteratorsAndComparatorsEx\ListyIterator\obj\Debug\ListyIterator.pdb

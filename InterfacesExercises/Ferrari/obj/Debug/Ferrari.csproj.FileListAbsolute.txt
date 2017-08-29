@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\bin\Debug\Ferrari.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\bin\Debug\Ferrari.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\bin\Debug\Ferrari.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\obj\Debug\Ferrari.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\obj\Debug\Ferrari.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\Ferrari\obj\Debug\Ferrari.pdb

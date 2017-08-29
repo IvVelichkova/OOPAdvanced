@@ -1,0 +1,7 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\CSharpOOPAdvanced\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\bin\Debug\Shapes.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\obj\Debug\Shapes.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\LabInterfacesAbstraction\Shapes\obj\Debug\Shapes.pdb

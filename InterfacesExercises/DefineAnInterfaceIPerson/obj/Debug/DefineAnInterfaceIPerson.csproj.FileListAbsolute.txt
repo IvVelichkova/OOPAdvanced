@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\bin\Debug\DefineAnInterfaceIPerson.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\bin\Debug\DefineAnInterfaceIPerson.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\bin\Debug\DefineAnInterfaceIPerson.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\obj\Debug\DefineAnInterfaceIPerson.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\obj\Debug\DefineAnInterfaceIPerson.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\DefineAnInterfaceIPerson\obj\Debug\DefineAnInterfaceIPerson.pdb

@@ -1,0 +1,2 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\BorderControl\bin\Debug\BorderControl.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\InterfacesExercises\BorderControl\obj\Debug\BorderControl.csprojResolveAssemblyReference.cache
