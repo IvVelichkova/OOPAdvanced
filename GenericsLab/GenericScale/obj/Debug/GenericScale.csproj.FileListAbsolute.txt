@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\bin\Debug\GenericScale.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\obj\Debug\GenericScale.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\bin\Debug\GenericScale.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\bin\Debug\GenericScale.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\obj\Debug\GenericScale.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\GenericScale\obj\Debug\GenericScale.pdb

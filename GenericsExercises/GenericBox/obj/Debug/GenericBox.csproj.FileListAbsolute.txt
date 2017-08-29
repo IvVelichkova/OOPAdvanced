@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\bin\Debug\GenericBox.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\bin\Debug\GenericBox.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\bin\Debug\GenericBox.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\obj\Debug\GenericBox.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\obj\Debug\GenericBox.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\GenericBox\obj\Debug\GenericBox.pdb

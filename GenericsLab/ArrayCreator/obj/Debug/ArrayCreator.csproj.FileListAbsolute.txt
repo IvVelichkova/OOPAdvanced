@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\bin\Debug\ArrayCreator.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\bin\Debug\ArrayCreator.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\bin\Debug\ArrayCreator.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\obj\Debug\ArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\obj\Debug\ArrayCreator.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\ArrayCreator\obj\Debug\ArrayCreator.pdb

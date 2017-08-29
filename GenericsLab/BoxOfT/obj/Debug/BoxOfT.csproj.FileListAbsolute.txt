@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\bin\Debug\BoxOfT.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\bin\Debug\BoxOfT.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\bin\Debug\BoxOfT.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\obj\Debug\BoxOfT.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\obj\Debug\BoxOfT.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsLab\BoxOfT\obj\Debug\BoxOfT.pdb

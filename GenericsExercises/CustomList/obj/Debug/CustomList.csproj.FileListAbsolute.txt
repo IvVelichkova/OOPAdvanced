@@ -1,0 +1,6 @@
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\bin\Debug\CustomList.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\obj\Debug\CustomList.exe
+C:\Users\Iv Velichkova\Documents\GitHub\SoftUniOOP\CSharpOOPAdvanced\GenericsExercises\CustomList\obj\Debug\CustomList.pdb
